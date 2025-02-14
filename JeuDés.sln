@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JeuDés", "JeuDés\JeuDés.csproj", "{8FCF3051-170F-410B-803A-6C1525B3A515}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeuDésTest", "JeuDésTest\JeuDésTest.csproj", "{DC19E06D-D7FC-4666-AA24-F74C1A3B8895}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FCF3051-170F-410B-803A-6C1525B3A515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FCF3051-170F-410B-803A-6C1525B3A515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FCF3051-170F-410B-803A-6C1525B3A515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FCF3051-170F-410B-803A-6C1525B3A515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC19E06D-D7FC-4666-AA24-F74C1A3B8895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC19E06D-D7FC-4666-AA24-F74C1A3B8895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC19E06D-D7FC-4666-AA24-F74C1A3B8895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC19E06D-D7FC-4666-AA24-F74C1A3B8895}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DA0AC14-B500-4A92-8145-98F34251C42B}
+	EndGlobalSection
+EndGlobal
